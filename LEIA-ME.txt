@@ -1,0 +1,15 @@
+BLOOM JOIAS — PRIMEIRA VERSÃO PARA REVISÃO
+
+Abra index.html com seu navegador. Mantenha index.html, products.js, app.js, style.css e a pasta assets juntos.
+
+O catálogo usa preços da fornecedora multiplicados por 2,1, arredondados para centavos. R$ 24,90 -> R$ 52,29.
+Peças e cores sem correspondência de preço confirmada aparecem como "Preço sob consulta". Podem compor o pedido, mas não entram no subtotal; isso fica explícito na mensagem do WhatsApp.
+
+WhatsApp: +55 62 98236-7414. A cliente revisa o texto e toca em enviar no WhatsApp.
+O carrinho fica salvo neste navegador quando o armazenamento local está disponível.
+Esta versão é local. Para compartilhar com clientes, ainda é necessário publicar o catálogo em uma hospedagem.
+
+As opções de cor são baseadas nas imagens recebidas, sem confirmação de estoque. Materiais, banho, medidas, garantia e tamanhos não foram presumidos.
+A fotografia ampliada usa a imagem recebida; a qualidade original limita a ampliação.
+
+Confira os preços e as correspondências na planilha conferencia-bloom.csv, entregue separadamente. Essa planilha contém os custos da fornecedora e não deve ser publicada junto do catálogo.
